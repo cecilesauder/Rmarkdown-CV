@@ -1,0 +1,134 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Cécile SAUDER
+#orcid: "orcid.org/0000-0002-9577-6885"
+jobtitle: "Data Scientist / Experte R"
+experience: "8 ans d'expérience"
+address: "disponible septembre 2018 . Montpellier"
+fontawesome: yes
+email: cecile.sauder@gmail.com
+linkedin: cecilesauder
+github: cecilesauder
+twitter: cecilesauder
+phone: "06 68 32 55 98"
+#web: 'wikipedia.org/wiki/Grace_Hopper'
+updated: no
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# FORMATION
+
+Doctorat Bio-statistique, *Agrocampus Ouest Rennes* \hfill 2014
+
+Master Mathématique Statistique et Recherche Opérationnelle Mention Bien, *Université d'Orléans* \hfill 2010
+
+
+# EXPÉRIENCE
+
+**INRA (Montpellier)** *CDD 6 mois* \hfill 2017
+
+ > INGÉNIEURE DE RECHERCHE : 
+Modélisation statistique et développement de méthodes
+statistiques en **R**. Simulation de phénotypes de plantes.
+
+**ThinkR (Paris)** *Freelance 3 mois* \hfill 2017
+
+ > 2 missions : Analyse et visualisation avec *ggplot* de données médicales et automatisation des résultats pour toutes les variables. Rédaction de rapport avec le package *ReporteRs*. Formation/coaching en **R**  du client pendant 2 jours. 
+ 
+
+**EDUCATION NATIONALE (Toulouse) ** *CDD 6 mois* \hfill 2016
+
+ > PROFESSEUR DE MATHÉMATIQUES : 
+Enseignement des mathématiques à des classes de la
+seconde au BTS.
+ 
+**BELGATECH (Bruxelles)** *CDI 1 an* \hfill 2015
+
+ >  CONSULTANTE EN STATISTIQUE, DATA MANAGER : 
+Gestion et analyse statistique des données, data mining avec **R**. 
+Encadrement de personnel technique. Gestion de projet. 
+Rédaction de rapports, appels d’offre, devis...
+
+**INRA (Rennes)** *CDD 3 ans* \hfill 2010--2014
+
+ > DOCTORANTE : 
+Méthodes statistiques d'analyse des données fonctionnelles
+appliquées aux dynamiques de croissance et de lactation chez les bovins laitiers. Enseignement (TD et TP de statistiques), communication (conférences internationales), rédaction (articles scientifiques...), programmation de méthodes statistiques et d'interface graphique en **R**.
+
+**INRA (Orléans)** *Stage 6 mois* \hfill 2010
+
+ > STAGIAIRE DE MASTER 2 : 
+Prédiction des valeurs reproductives des individus d'une population
+d'amélioration génétique par BLUP (Best Linear Unbiaised Prediction) : comparaison de résultats obtenus via différentes routines et logiciels. Programmation en Fortran, **R** et VBA.
+
+**INRA (Orléans)** *Stage 3 mois* \hfill 2009
+
+ > STAGIAIRE DE MASTER 1 : 
+Mesure de la variabilité génétique pour la résistance à la rouille foliaire
+dans un pedigree de cartographie de peuplier noir. Analyse statistique des données phénotypiques observées dans des tests conduits au laboratoire sur des feuilles de peupliers noirs avec **R**.
+
+
+# RECHERCHE SCIENTIFIQUE
+
+## **Thèse**
+
+*Méthodes d'analyse des données fonctionnelles appliquées aux dynamiques de croissance et lactation chez les bovins laitiers* \hfill 2014
+
+## **Articles**
+
+*Non-parametric approaches to the impact of Holstein heifer growth from birth to insemination on their dairy performance at lactation one*, Journal of Agricultural Science \hfill 2013 
+
+
+## **Conférences** 
+
+*tripdown : un package pour créer des blogs de voyage*, 7 èmes Rencontres R \hfill 2018
+
+*Prediction of success of insemination with past daily milk yield with a functional generalized linear model*, 4 th
+Channel Network Conference of International Biometric Society \hfill 2013
+
+*Prédiction d'un événement binaire à partir de données fonctionnelles*, 2 èmes Rencontres R, \hfill 2013
+
+*Influence du profil de croissance des génisses Prim Holstein sur leurs performances laitières en première
+lactation*, 19 èmes Rencontres Recherche Ruminant \hfill 2012 
+
+## **Vulgarisation scientifique**
+
+[*StatistiX et le problème de la potion magique*](https://www.youtube.com/watch?v=QAT0F__A258), 1er prix du Festival Sciences en cour[t]s, 2012
+
+# COMPÉTENCES
+
+## **Informatique** 
+
+- Systèmes d'exploitation : Windows, Linux, MacOS
+- Outils mathématiques : R, SAS, XLStat, Scilab, Matlab, Praat, Maple
+- Logiciels de bureautique : MS Office, OpenOffice, LibreOffice
+- Base de données et Web : MySql, HTML, CSS, PHP, ACCESS, Blogdown
+- Gestion de projet : MSProject, Gaphor, GanttProject
+- Programmation : R, C/C++, Java, Fortran, Python, VBA
+
+## **Langues**
+
+- Anglais : très bon
+- Espagnol : très bon
+
+## **Loisirs**
+
+- Vulgarisation scientifique
+- Zététique (Art du doute et de la recherche méthodique)
+- Logiciel Libre
+- Voyages
+
+## Permis B obtenu en 2003

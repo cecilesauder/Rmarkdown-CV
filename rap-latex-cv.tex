@@ -237,8 +237,9 @@ $endif$
 
 \vspace{2 mm}
 
-$if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
-$if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
+$if(jobtitle)$\moveleft.5\hoffset\centerline{\bf $jobtitle$}$endif$
+$if(experience)$\moveleft.5\hoffset\centerline{$experience$}$endif$
+$if(address)$\moveleft.5\hoffset\centerline{\bf $address$}$endif$
 \moveleft.5\hoffset\centerline{ $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
 \moveleft.5\hoffset\centerline{
 $if(linkedin)$$if(fontawesome)$\faLinkedin \hspace{1 mm}$else$\emph{Linkedin:}$endif$ \href{http://www.linkedin.com/in/$linkedin$}{\tt $linkedin$} \hspace{1 mm} $endif$
