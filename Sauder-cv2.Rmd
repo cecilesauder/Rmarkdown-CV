@@ -46,7 +46,7 @@ statistiques en **R**. Simulation de phénotypes de plantes.
 
 **ThinkR (Paris)** *Freelance 3 mois* \hfill 2017
 
- > 2 missions : Analyse et visualisation avec *ggplot* de données médicales et automatisation des résultats pour toutes les variables. Rédaction de rapport avec le package *ReporteRs*. Formation/coaching en **R**  du client pendant 2 jours. 
+ > DATA SCIENTIST : 2 missions : Analyse et visualisation avec *ggplot* de données médicales et automatisation des résultats pour toutes les variables. Rédaction de rapport avec le package *ReporteRs*. Formation/coaching en **R**  du client pendant 2 jours. 
  
 
 **EDUCATION NATIONALE (Toulouse) ** *CDD 6 mois* \hfill 2016
