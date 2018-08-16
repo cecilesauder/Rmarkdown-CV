@@ -68,13 +68,11 @@ Rédaction de rapports, appels d’offre, devis...
 Méthodes statistiques d'analyse des données fonctionnelles
 appliquées aux dynamiques de croissance et de lactation chez les bovins laitiers. Enseignement (TD et TP de statistiques), communication (conférences internationales), rédaction (articles scientifiques...), programmation de méthodes statistiques et d'interface graphique en **R**.
 
-**INRA (Orléans)** *Stage 6 mois* \hfill 2010
+**INRA (Orléans)** *Stages 9 mois* \hfill 2019--2010
 
  > STAGIAIRE DE MASTER 2 : 
 Prédiction des valeurs reproductives des individus d'une population
 d'amélioration génétique par BLUP (Best Linear Unbiaised Prediction) : comparaison de résultats obtenus via différentes routines et logiciels. Programmation en Fortran, **R** et VBA.
-
-**INRA (Orléans)** *Stage 3 mois* \hfill 2009
 
  > STAGIAIRE DE MASTER 1 : 
 Mesure de la variabilité génétique pour la résistance à la rouille foliaire
